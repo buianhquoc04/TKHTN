@@ -1,2 +1,2 @@
 # TKHTN
-XE ĐIỀU KHIỂN TỪ XA BẰNG BLUETOOTH THÔNG QUA ĐIỆN THOẠI SỬ DỤNG ĐỂ ĐO THÔNG SỐ MÔI TRƯỜNG
+HỆ THỐNG TƯỚI NƯỚC TỰ ĐỘNG SỬ DỤNG CẢM BIẾN ĐỘ ẨM 
